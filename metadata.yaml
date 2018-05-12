@@ -1,0 +1,31 @@
+_repo: Curiosities-of-Civilization_40498
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40498-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wynter, Andrew
+    alias: Retnyw, Werdna
+    birthdate: 1819
+    deathdate: 1876
+    gutenberg_agent_id: '40660'
+    url: http://www.gutenberg.org/2009/agents/40660
+description: ''
+gutenberg_issued: '2012-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40498'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English essays -- 19th century'
+tableOfContents: Advertisements -- Food and its adulterations -- The Zoological Gardens
+  -- Rats -- Lunatic asylums -- The London commissariat -- Woolwich Arsenal -- Shipwrecks
+  -- Lodging, food, and dress of soldiers -- The electric telegraph -- Fires and fire
+  insurance -- The police and the thieves -- Mortality in trades and professions.
+title: Curiosities of Civilization
+url: http://www.gutenberg.org/ebooks/40498
